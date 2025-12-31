@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alzah Fariski</h1>
-<h3 align="center">Fullstack Mobile app Enthusiast | UI/UX Design Enthusiast</h3>
+<h3 align="center">Fullstack  Mobile app | UI/UX Design </h3>
 
-- 💬 Ask me about **Flutter | Dart | UX Design**
+- 💬 Ask me about **Flutter | Laravel | Next JS | UX Design**
 
 - 📫 How to reach me **alzahfariski@gmail.com**
 
