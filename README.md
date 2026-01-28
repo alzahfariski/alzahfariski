@@ -44,17 +44,6 @@ I'm a seasoned fullstack developer specializing in cross-platform mobile develop
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alzahfariski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzahfariski&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alzahfariski&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## 🎯 What I Do
 
 - 🏗️ Design and implement scalable mobile architectures
