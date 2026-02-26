@@ -11,7 +11,7 @@ I'm a seasoned fullstack developer specializing in cross-platform mobile develop
 **Core Competencies:**
 - 📱 Cross-platform mobile development (Flutter)
 - 🎨 UI/UX design and implementation (Figma to production)
-- 🔧 Backend architecture (Laravel, NestJS)
+- 🔧 Backend architecture (Laravel)
 - ⚡ Modern web frameworks (Next.js)
 - 🏗️ System design and scalable architecture
 
@@ -22,7 +22,6 @@ I'm a seasoned fullstack developer specializing in cross-platform mobile develop
 
 ### Backend Development
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
